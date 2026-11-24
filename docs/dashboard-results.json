@@ -1,0 +1,37 @@
+[
+  {
+    "page": "集群总览",
+    "exceptions": 0,
+    "plots": 4
+  },
+  {
+    "page": "分布式文件管理",
+    "exceptions": 0,
+    "plots": 3
+  },
+  {
+    "page": "MapReduce 任务中心",
+    "exceptions": 0,
+    "plots": 3
+  },
+  {
+    "page": "WordCount 可视化",
+    "exceptions": 0,
+    "plots": 5
+  },
+  {
+    "page": "Monte Carlo π",
+    "exceptions": 0,
+    "plots": 5
+  },
+  {
+    "page": "性能分析",
+    "exceptions": 0,
+    "plots": 8
+  },
+  {
+    "page": "故障容错演示",
+    "exceptions": 0,
+    "plots": 1
+  }
+]

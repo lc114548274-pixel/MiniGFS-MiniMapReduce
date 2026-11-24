@@ -1,0 +1,22 @@
+[
+  {
+    "name": "master",
+    "alive": false
+  },
+  {
+    "name": "worker-1",
+    "alive": false
+  },
+  {
+    "name": "worker-2",
+    "alive": false
+  },
+  {
+    "name": "worker-3",
+    "alive": false
+  },
+  {
+    "name": "dashboard",
+    "alive": false
+  }
+]

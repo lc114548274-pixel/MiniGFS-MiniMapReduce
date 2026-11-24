@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "checks": [
+    "three_real_workers_registered",
+    "multi_chunk_double_replication",
+    "upload_download_sha256",
+    "corrupt_replica_checksum_failover",
+    "empty_and_binary_file_roundtrip",
+    "real_mapper_utf8_and_long_word_chunk_boundaries",
+    "real_worker_shutdown_and_replica_failover",
+    "wordcount_map_shuffle_reduce_matches_serial",
+    "monte_carlo_actual_inflight_failure_retry_exact_result",
+    "duplicate_attempt_idempotency_and_conflict_rejection",
+    "master_restart_persistent_metadata_download",
+    "all_replicas_unavailable_cleans_partial_preserves_destination",
+    "all_test_processes_stopped"
+  ],
+  "seconds": 90.93229460000293,
+  "python": "3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]"
+}
